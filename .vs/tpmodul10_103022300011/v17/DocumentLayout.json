@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul10_103022300011\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E4DE06D-334B-4153-A02A-F662C02D2638}|tpmodul10_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul10_103022300011\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4DE06D-334B-4153-A02A-F662C02D2638}|tpmodul10_103022300011.csproj|solutionrelative:controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E4DE06D-334B-4153-A02A-F662C02D2638}|tpmodul10_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul10_103022300011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4DE06D-334B-4153-A02A-F662C02D2638}|tpmodul10_103022300011.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4DE06D-334B-4153-A02A-F662C02D2638}|tpmodul10_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul10_103022300011\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4DE06D-334B-4153-A02A-F662C02D2638}|tpmodul10_103022300011.csproj|solutionrelative:mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +30,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul10_103022300011\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul10_103022300011\\Mahasiswa.cs",
+              "RelativeToolTip": "Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:41:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul10_103022300011\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul10_103022300011\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:40:30.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul10_103022300011\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
